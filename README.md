@@ -63,11 +63,6 @@ Example:
 
 (https://magenta-faun-76b228.netlify.app/)
 
-After enabling GitHub Pages, paste your live website link here.
-
-Example:
-
-https://muskandevx-rgb.github.io/taskflow-ai/
 
 ---
 

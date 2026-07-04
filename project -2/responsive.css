@@ -1,0 +1,99 @@
+@media (max-width:768px){
+
+    .navbar{
+        flex-wrap:wrap;
+        flex-direction:column;
+        gap:20px;
+    }
+
+    .menu{
+        display:block;
+    }
+
+    .nav-links{
+        display:none;
+        flex-direction:column;
+        width:100%;
+        background:#0F172A;
+        margin-top:20px;
+        padding:20px 0;
+        text-align:center;
+    }
+
+    .nav-links.active{
+        display:flex;
+    }
+
+    .nav-links li{
+        margin:15px 0;
+    }
+
+    .btn{
+        display:none;
+    }
+
+    .hero{
+        flex-direction:column;
+        text-align:center;
+        padding:60px 20px;
+    }
+
+    .hero-content{
+        width:100%;
+    }
+
+    .hero-image img{
+        width:100%;
+        max-width:450px;
+        margin-top:40px;
+    }
+
+    .hero-content h1{
+        font-size:40px;
+    }
+
+    .feature-container{
+        grid-template-columns:1fr;
+    }
+
+    .stats{
+        flex-direction:column;
+        gap:40px;
+    }
+
+    .price-container{
+        flex-direction:column;
+        align-items:center;
+    }
+
+    .price-card{
+        width:100%;
+    }
+
+    .testimonial-container{
+        flex-direction:column;
+        align-items:center;
+    }
+
+    .testimonial-card{
+        width:100%;
+    }
+
+    .contact form{
+        width:100%;
+    }
+
+    .footer-links{
+        display:flex;
+        flex-direction:column;
+        gap:15px;
+    }
+}
+@media (max-width:768px){
+
+    .hero-buttons{
+        flex-direction:column;
+        align-items:center;
+    }
+
+}

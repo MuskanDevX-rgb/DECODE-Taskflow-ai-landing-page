@@ -12,7 +12,23 @@ The website features a premium UI with responsive design, glassmorphism effects,
 
 Example:
 
-![TaskFlow AI Screenshot](images/screenshot.png)
+## 📷 Project Screenshots
+
+### 🏠 Homepage
+
+![Homepage](homepage.png)
+
+### ✨ Features Section
+
+![Features](images/feature.png)
+
+### 💰 Pricing Section
+
+![Pricing](images/plan.png)
+
+### 📞 Contact Section
+
+![Contact](images/contact.png)
 
 ---
 

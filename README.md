@@ -6,13 +6,13 @@ The website features a premium UI with responsive design, glassmorphism effects,
 
 ---
 
-## 📷 Project Screenshot
 
-> Add your project screenshot here.
 
-Example:
+
 
 ## 📷 Project Screenshots
+
+Example:
 
 ### 🏠 Homepage
 

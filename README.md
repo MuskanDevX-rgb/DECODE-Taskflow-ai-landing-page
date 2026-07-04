@@ -61,7 +61,7 @@ Example:
 
 ## 🚀 Live Demo
 
-Coming Soon...
+(https://magenta-faun-76b228.netlify.app/)
 
 After enabling GitHub Pages, paste your live website link here.
 
